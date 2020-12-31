@@ -1,0 +1,7 @@
+import speech_recognition as sr
+import os
+from gtts import gTTS
+import random
+import playsound
+import time
+import wikipedia
