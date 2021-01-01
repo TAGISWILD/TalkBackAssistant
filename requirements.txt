@@ -1,5 +1,0 @@
-SpeechRecognition
-gTTS
-playsound
-player
-wikipedia
